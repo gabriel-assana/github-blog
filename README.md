@@ -63,7 +63,6 @@ $ npm install
 
 # Agora inicie o servidor do FrontEnd
 $ npm run dev
-
 # O terminal irá exibir o endereço local onde a aplicação está sendo executada. Basta digitar o mesmo endereço em seu navegador preferido. O endereço usado na criação do projeto foi este:
 
   http://localhost:5173/
